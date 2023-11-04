@@ -1,0 +1,11 @@
+.not-found-container img {
+  width: 400px;
+  height: 400px;
+  margin-left: 30rem;
+}
+.not-found-text {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

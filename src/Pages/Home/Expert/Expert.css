@@ -1,0 +1,9 @@
+/* .expert-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+} */
+
+.expert__container-image img {
+  width: 300px;
+  height: 300px;
+}

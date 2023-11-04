@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Cardio",
+    "fee": "500",
+    "description": "Cardio is defined as any type of exercise that gets your heart rate up and keeps it up for a prolonged period of time. Your respiratory system will start working harder as you begin to breathe faster and more deeply.",
+    "img": "https://i.ibb.co/h2r42Tt/gabin-vallet-J154n-Ekpzl-Q-unsplash.jpg"
+  },
+  {
+    "id": 2,
+    "name": "AirYoga",
+    "fee": "300",
+    "description": "Air yoga is a type of yoga which uses a hammock or yoga swing to allow students to perform postures that they may not ordinarily be able to attempt on the yoga mat. It is often also referred to as AntiGravity® yoga. It combines traditional yoga with moves inspired by pilates, dance and acrobatics",
+    "img": "https://i.ibb.co/2nKxMcK/airyoga.png"
+  },
+  {
+    "id": 3,
+    "name": "Lifting",
+    "fee": "750",
+    "description": "Lifting refers to the act of moving something from a position on a lower surface to a higher one. For example, a person might lift a box from the floor to a shelf. In the workplace, the act of lifting may be performed by a person or a machine. In some instances, an individual worker may use a tool or powered device to aid him or her in lifting an item.",
+    "img": "https://i.ibb.co/MgmspVC/fitness-barbell-1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dead Lifting",
+    "fee": "980",
+    "description": "The deadlift is a weight training exercise in which a loaded barbell or bar is lifted off the ground to the level of the hips, torso perpendicular to the floor, before being placed back on the ground. It is one of the three powerlifting exercises, along with the squat and bench press.",
+    "img": "https://i.ibb.co/LdCQjpy/deadlift-g16b3604c4-1920.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Press and Back",
+    "fee": "1000",
+    "description": "Your back muscles are the main structural support for your trunk (torso). These muscles help you move your body, including your head, neck, shoulders, arms and legs. Your back muscles work together to allow you to bend over, twist, turn your head and extend your back",
+    "img": "https://i.ibb.co/ZGMtjHV/john-arano-h4i9-G-de7-Po-unsplash.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Chest",
+    "fee": "600",
+    "description": "The bench press, or chest press, is an upper-body weight training exercise in which the trainee presses a weight upwards while lying on a weight training bench. The exercise uses the pectoralis major, the anterior deltoids, and the triceps, among other stabilizing muscles.",
+    "img": "https://i.ibb.co/k0Zf1h0/alora-griffiths-s-AKQGX1-Krs8-unsplash.jpg"
+  }
+]
